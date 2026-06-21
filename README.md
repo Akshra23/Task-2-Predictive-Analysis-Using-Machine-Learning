@@ -14,7 +14,7 @@ Project Name - Student Pass/Fail Prediction Using Machine Learning
 | **Domain** | Data Analytics |
 | **Duration** | 4 weeks |
 | **Mentor** | Neela Santhosh Kumar |
-| **Task** | Task 1 — Big Data Analysis |
+| **Task** | TASK-2 Predictive Analysis Using Machine Learning  |
 
 ---
 
